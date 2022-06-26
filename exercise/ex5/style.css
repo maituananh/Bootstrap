@@ -1,0 +1,52 @@
+.header {
+    background-color: #ee4d2d;
+}
+
+.header a {
+    font-size: 13px;
+}
+
+.header-second {
+    background-color: #fef6f5;
+    margin-top: 150px;
+    height: 500px;
+}
+
+.header-second .header-second__category a {
+    font-size: 13px;
+}
+
+.category .row div {
+    height: 150px;
+    max-width: 114px;
+    box-sizing: content-box;
+}
+
+.category .row div img {
+    height: 100px !important;
+    padding-top: 10px;
+}
+
+/* .category .row div p {
+    position: relative;
+    padding-bottom: 10px;
+} */
+
+.flash-sale {
+    margin-top: 30px;
+}
+
+.flash-sale .row div .flash-sale__percent {
+    right: 0;
+    height: 50px;
+    width: 70px;
+    background: rgba(255,212,36,.9);
+}
+
+.flash-sale .row div .progress {
+    background: #ffbda6;
+}
+
+.flash-sale .row div .progress .progress-bar {
+    background: #ffbda6;
+}
